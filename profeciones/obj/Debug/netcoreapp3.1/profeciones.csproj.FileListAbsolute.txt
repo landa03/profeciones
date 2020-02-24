@@ -1,0 +1,11 @@
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\obj\Debug\netcoreapp3.1\profeciones.csprojAssemblyReference.cache
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\obj\Debug\netcoreapp3.1\profeciones.AssemblyInfoInputs.cache
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\obj\Debug\netcoreapp3.1\profeciones.AssemblyInfo.cs
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\bin\Debug\netcoreapp3.1\profeciones.exe
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\bin\Debug\netcoreapp3.1\profeciones.deps.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\bin\Debug\netcoreapp3.1\profeciones.runtimeconfig.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\bin\Debug\netcoreapp3.1\profeciones.runtimeconfig.dev.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\bin\Debug\netcoreapp3.1\profeciones.dll
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\bin\Debug\netcoreapp3.1\profeciones.pdb
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\obj\Debug\netcoreapp3.1\profeciones.dll
+C:\Users\Lenovo T410\Desktop\escuela\progra\profeciones\obj\Debug\netcoreapp3.1\profeciones.pdb
